@@ -1,0 +1,151 @@
+destination_id,name,address,type,price_per_night,rating,contact,latitude,longitude
+1,Hôtel de Neuve,,accomodations,,,,48.857460021972656,2.3503012657165527
+1,hotel duo,,accomodations,,,,48.858097076416016,2.3529365062713623
+1,Villa Mazarin,,accomodations,,,,48.85732650756836,2.3543708324432373
+1,Andréa Rivoli,,accomodations,,,,48.85819625854492,2.350281000137329
+1,grand hotel du loiret,,accomodations,,,,48.85691833496094,2.355293035507202
+1,D'win,,accomodations,,,,48.85865783691406,2.353761911392212
+1,hotel de nice,,accomodations,,,,48.856624603271484,2.3557612895965576
+1,Auberge Maubuisson,,accomodations,,,,48.85531997680664,2.3553826808929443
+1,france louvre,,accomodations,,,,48.85651779174805,2.356206178665161
+1,hotel le presbytere,,accomodations,,,,48.859031677246094,2.3503689765930176
+1,1er etage marais,,accomodations,,,,48.85866165161133,2.3548943996429443
+1,hotel de la bretonnerie,,accomodations,,,,48.85833740234375,2.356032371520996
+1,Hôtel Caron de Beaumarchais,,accomodations,,,,48.856449127197266,2.356865167617798
+1,hotel le compostelle,,accomodations,,,,48.85647201538086,2.357055902481079
+1,hotel rivoli,,accomodations,,,,48.855960845947266,2.357342481613159
+1,hotel dupond-smith,,accomodations,,,,48.857906341552734,2.357191801071167
+1,hotel victoria chatelet,,accomodations,,,,48.857826232910156,2.3467061519622803
+1,Le Cardinal,,accomodations,,,,48.85951614379883,2.348318576812744
+1,Halle Hotel,,accomodations,,,,48.8592414855957,2.3473713397979736
+1,hotel britannique,,accomodations,,,,48.85829162597656,2.3464128971099854
+1,,,accomodations,,,,48.8583869934082,2.346473455429077
+1,hotel saint-louis en l'isle,,accomodations,,,,48.85259246826172,2.3542184829711914
+1,hotel de lutece - notre-dame,,accomodations,,,,48.85244369506836,2.3546323776245117
+1,Hôtel les Deux Iles,,accomodations,,,,48.852317810058594,2.3549673557281494
+1,hotel des ducs d'anjou,,accomodations,,,,48.85985565185547,2.347092866897583
+1,grand hotel dechampaigne,,accomodations,,,,48.85877990722656,2.345301389694214
+1,MIJE Fourcy,,architecture,,,,48.85475158691406,2.3594868183135986
+1,hotel le notre dame saint michel,,accomodations,,,,48.85308074951172,2.3464584350585938
+1,hotel du jeu de paume,,architecture,,,,48.85204315185547,2.356139659881592
+1,hotel flor rivoli,,accomodations,,,,48.8591423034668,2.3451907634735107
+1,hotel esmeralda,,accomodations,,,,48.852474212646484,2.347203016281128
+1,citadines les halles paris,,accomodations,,,,48.86065673828125,2.346933603286743
+1,les rives de notre-dame,,accomodations,,,,48.853248596191406,2.3457841873168945
+1,Rue Bertin Poirée,,accomodations,,,,48.8593635559082,2.3451569080352783
+1,Hôtel La Pointe Rivoli,,accomodations,,,,48.85515213012695,2.360210418701172
+1,Melia Paris Notre Dame,,accomodations,,,,48.851524353027344,2.3486742973327637
+1,Le Colbert,,architecture,,,,48.851470947265625,2.3483307361602783
+1,novotel paris les halles,,accomodations,,,,48.860897064208984,2.3463823795318604
+1,hotel du mont blanc,,accomodations,,,,48.85318374633789,2.345099449157715
+1,Short Stay Apartment Pompidou,,guest_houses,,,,48.862464904785156,2.352552652359009
+1,,,apartments,,,,48.85999298095703,2.3449132442474365
+1,Hôtel de la Vallée,,accomodations,,,,48.862220764160156,2.349508047103882
+1,grand hotel malher,,accomodations,,,,48.85570526123047,2.3610973358154297
+1,Snob Hotel by Elegancia,,accomodations,,,,48.862335205078125,2.349504232406616
+1,handsome hotel by elegancia,,accomodations,,,,48.86220932006836,2.3488388061523438
+1,hotel albe saint michel,,accomodations,,,,48.85308837890625,2.3447117805480957
+1,hotel emile,,accomodations,,,,48.85538864135742,2.3612735271453857
+1,,,accomodations,,,,48.85237121582031,2.3455169200897217
+1,hotel henri iv rive gauche,,accomodations,,,,48.85184860229492,2.3463821411132812
+1,Maitre Albert B&B,,accomodations,,,,48.850704193115234,2.3495969772338867
+2,Boscolo Exedra,,accomodations,,,,41.9019889831543,12.495951652526855
+2,Suite Dreams,,accomodations,,,,41.902366638183594,12.49459457397461
+2,Mondial - Best Western,,accomodations,,,,41.901458740234375,12.495715141296387
+2,Hotel Augustea,,accomodations,,,,41.90187072753906,12.494745254516602
+2,repubblica hotel rome,,accomodations,,,,41.901859283447266,12.494731903076172
+2,Floris Hotel,,accomodations,,,,41.90185546875,12.494685173034668
+2,La casa del passeggero,,accomodations,,,,41.901371002197266,12.497380256652832
+2,Hotel Quirinale,,accomodations,,,,41.901649475097656,12.494869232177734
+2,the st.  regis rome,,accomodations,,,,41.90415573120117,12.495092391967773
+2,The RomeHello,,accomodations,,,,41.90333557128906,12.494190216064453
+2,hotel paris,,accomodations,,,,41.90190124511719,12.494385719299316
+2,Hotel Aberdeen,,accomodations,,,,41.90263748168945,12.494040489196777
+2,Hotel Nord Nuova Roma,,accomodations,,,,41.90116500854492,12.497584342956543
+2,hotel columbia,,accomodations,,,,41.90089797973633,12.496562004089355
+2,,,accomodations,,,,41.900917053222656,12.495931625366211
+2,hotel impero,,accomodations,,,,41.9007568359375,12.496293067932129
+2,hotel impero,,accomodations,,,,41.9007453918457,12.496298789978027
+2,la griffe roma - mgallery collection,,accomodations,,,,41.90135192871094,12.494412422180176
+2,Selene,,accomodations,,,,41.900718688964844,12.496752738952637
+2,Starhotels Metropole,,accomodations,,,,41.900726318359375,12.496971130371094
+2,Hotel Centro,,accomodations,,,,41.90090560913086,12.494858741760254
+2,,,accomodations,,,,41.900550842285156,12.496414184570312
+2,Hotel Diana,,accomodations,,,,41.90070343017578,12.497501373291016
+2,Welcome Piram Hotel,,accomodations,,,,41.90080642700195,12.497882843017578
+2,Hotel Opera Roma,,accomodations,,,,41.90074157714844,12.495035171508789
+2,hotel oceania,,accomodations,,,,41.903263092041016,12.49318790435791
+2,iq hotel roma,,accomodations,,,,41.90047836303711,12.495182991027832
+2,,,accomodations,,,,41.90052795410156,12.497868537902832
+2,Hotel Sonya,,accomodations,,,,41.90025329589844,12.496084213256836
+2,The Loft,,accomodations,,,,41.900352478027344,12.49748706817627
+2,Al Viminale Hill Inn & Hotel,,accomodations,,,,41.90021896362305,12.495966911315918
+2,Hotel Martini,,accomodations,,,,41.90093994140625,12.493830680847168
+2,Hotel Cortina,,accomodations,,,,41.90095138549805,12.493813514709473
+2,best western plus hotel universo,,accomodations,,,,41.90020751953125,12.497567176818848
+2,Hotel Lirico,,accomodations,,,,41.9001579284668,12.495370864868164
+2,Hotel Nizza,,accomodations,,,,41.900352478027344,12.498154640197754
+2,Smalto,,accomodations,,,,41.90003204345703,12.49571418762207
+2,Embassy Hotel,,accomodations,,,,41.905555725097656,12.495593070983887
+2,Hotel Artemide,,accomodations,,,,41.900821685791016,12.493613243103027
+2,Hotel Miami,,accomodations,,,,41.900970458984375,12.493353843688965
+2,augusta lucilla palace,,accomodations,,,,41.90003967285156,12.497757911682129
+2,Hotel Giglio dell'Opera,,accomodations,,,,41.90019607543945,12.49840259552002
+2,raeli hotel noto,,accomodations,,,,41.904701232910156,12.49958610534668
+2,Albergo hera net,,accomodations,,,,41.89986801147461,12.497511863708496
+2,Hotel San Remo,,accomodations,,,,41.89985275268555,12.497549057006836
+2,bettoja hotel mediterraneo,,accomodations,,,,41.900325775146484,12.498881340026855
+2,Raeli Hotel Regio,,accomodations,,,,41.904537200927734,12.499835968017578
+2,Hotel Giada,,accomodations,,,,41.89997863769531,12.498204231262207
+2,Hotel Altavilla,,accomodations,,,,41.89995193481445,12.498250007629395
+2,bettoja hotel atlantico,,accomodations,,,,41.900062561035156,12.498612403869629
+3,Central Plaza,,accomodations,,,,47.37708282470703,8.543634414672852
+3,townhouse boutique hotel,,accomodations,,,,47.37616729736328,8.540008544921875
+3,hotel schweizerhof zurich,,accomodations,,,,47.376949310302734,8.539446830749512
+3,hotel limmatblick,,accomodations,,,,47.3759765625,8.543805122375488
+3,hotel limmathof,,accomodations,,,,47.37644577026367,8.544160842895508
+3,hotel st. gotthard,,accomodations,,,,47.37641143798828,8.539229393005371
+3,sorell hotel rutli,,accomodations,,,,47.37616729736328,8.544407844543457
+3,hotel du theatre by fassbind,,architecture,,,,47.37627410888672,8.544673919677734
+3,Citystudios,,accomodations,,,,47.375728607177734,8.544463157653809
+3,hotel marta,,accomodations,,,,47.37596130371094,8.544779777526855
+3,hotel arlette beim hauptbahnhof,,accomodations,,,,47.378822326660156,8.543740272521973
+3,hotel felix,,accomodations,,,,47.37521743774414,8.544486045837402
+3,best western plus hotel zurcherhof,,accomodations,,,,47.37504959106445,8.54445743560791
+3,hotel alexander zurich old town,,accomodations,,,,47.374595642089844,8.54391860961914
+3,royal hotel zurich,,accomodations,,,,47.37897872924805,8.544937133789062
+3,hotel bristol zurich,,accomodations,,,,47.3796501159668,8.543557167053223
+3,Linda's Beauty Bed & Breakfast,,accomodations,,,,47.37464141845703,8.544777870178223
+3,hotel st.  josef,,accomodations,,,,47.37534713745117,8.545875549316406
+3,hotel scheuble,,accomodations,,,,47.37446212768555,8.544820785522461
+3,Hotel Krone-Limmatquai,,accomodations,,,,47.3737907409668,8.54305648803711
+3,Hotel Schäfli,,accomodations,,,,47.37380599975586,8.543359756469727
+3,leoneck swiss hotel,,accomodations,,,,47.379180908203125,8.545332908630371
+3,Hotel Hirschen,,accomodations,,,,47.37337875366211,8.543257713317871
+3,hotel platzhirsch,,accomodations,,,,47.37351608276367,8.543944358825684
+3,SPLENDID,,accomodations,,,,47.373226165771484,8.543330192565918
+3,Hotel Adler,,accomodations,,,,47.37313461303711,8.543481826782227
+3,hotel city zurich design & lifestyle,,accomodations,,,,47.37491226196289,8.536548614501953
+3,boutique hotel wellenberg,,accomodations,,,,47.37307357788086,8.543922424316406
+3,Hotel Sunnehus,,accomodations,,,,47.378971099853516,8.546972274780273
+3,bedsitting-rooms.ch,,accomodations,,,,47.37266159057617,8.543608665466309
+3,walhalla hotel,,accomodations,,,,47.3802375793457,8.537286758422852
+3,hotel kindli,,accomodations,,,,47.3724250793457,8.540643692016602
+3,widder hotel - zurichs luxury hideaway,,accomodations,,,,47.372440338134766,8.53985595703125
+3,stattHotel,,accomodations,,,,47.37235641479492,8.543157577514648
+3,Marktgasse Hotel,,accomodations,,,,47.37200927734375,8.543479919433594
+3,hotel glockenhof zurich,,accomodations,,,,47.372737884521484,8.536165237426758
+3,storchen zurich - lifestyle boutique hotel,,accomodations,,,,47.37126541137695,8.541793823242188
+3,zurich marriott hotel,,accomodations,,,,47.38260269165039,8.540459632873535
+3,hotel montana zurich,,accomodations,,,,47.38081359863281,8.53526782989502
+3,Sorell Hotel St. Peter,,accomodations,,,,47.37080001831055,8.540505409240723
+3,Boutique Hotel Josef,,accomodations,,,,47.38058853149414,8.534256935119629
+3,citizenm zurich,,accomodations,,,,47.37200927734375,8.535396575927734
+3,hotel florhof,,accomodations,,,,47.37228012084961,8.54876708984375
+3,EMA House Hotel Suites,,accomodations,,,,47.383636474609375,8.540301322937012
+3,Helmhaus,,accomodations,,,,47.36985778808594,8.54316234588623
+3,savoy baur en ville,,accomodations,,,,47.36977005004883,8.539772033691406
+3,swiss star zurich university,,accomodations,,,,47.38261032104492,8.54837417602539
+3,boutique hotel helvetia,,accomodations,,,,47.37322235107422,8.531698226928711
+3,altstadt hotel,,accomodations,,,,47.369293212890625,8.544011116027832
+3,Sorell Hotel Rex,,accomodations,,,,47.38475036621094,8.543059349060059

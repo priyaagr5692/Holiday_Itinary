@@ -1,0 +1,27 @@
+destination_id,type,name,description,start_location,end_location,price,duration_minutes,contact,latitude,longitude
+1,transport,Saint-Germain - Thenard,,,,,,,48.8504143,2.3468564
+1,transport,Place Nationale - Château-des-Rentiers,,,,,,,48.8293915,2.3647063
+1,transport,Charonne - Avron,,,,,,,48.8516121,2.3984206
+1,transport,Rottembourg - Général Michel Bizot,,,,,,,48.8378792,2.4044054
+1,transport,Cardinal Lavigerie,,,,,,,48.8329048,2.4026768
+1,transport,Relais Porte de Saint-Ouen,,,,,,,48.8999863,2.3292756
+1,shops,Station Service Carrefour Quais d'Ivry,,,,,,,48.8196106,2.3968301
+1,transport,Pergolèse - Marbeau,,,,,,,48.8735542,2.281491
+1,shops,Total Michelet,,,,,,,48.9083595,2.3438704
+1,transport,Calmette,,,,,,,48.8811798,2.4250803
+1,transport,Château de Vincennes,,,,,,,48.8441505,2.4393725
+1,transport,Pont de Charenton,,,,,,,48.8179245,2.4199903
+1,shops,Relais Total Du Pont Aval,,,,,,,48.8346405,2.2657719
+1,transport,Anatole France - Jean Lolive,,,,,,,48.8948479,2.4252644
+1,shops,Total Porte Saint-Cloud,,,,,,,48.8387527,2.2535353
+1,shops,Les Grésillons,,,,,,,48.9193153,2.3137655
+1,transport,Victor Hugo - Écoles,,,,,,,48.8045692,2.4179001
+1,transport,Gare de Clamart,,,,,,,48.8139381,2.2723677
+1,shops,Rue de Brément,,,,,,,48.8878403,2.455565
+1,transport,Europcar,,,,,,,48.8912125,2.2410421
+1,car_rental,Enterprise,,,,,,,48.8912735,2.2409763
+1,transport,Place des Larris,,,,,,,48.8568459,2.4778636
+2,transport,Vatican Petrol Station,,,,,,,41.9010162,12.4527788
+3,transport,LAMIR International Ltd liab Co,,,,,,,47.3706245,8.5286465
+3,shops,Coop Tankstelle Letzipark,,,,,,,47.3873901,8.4987173
+3,shops,SOCAR Glattbrugg,,,,,,,47.4289169,8.5591908
